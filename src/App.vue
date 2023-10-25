@@ -56,13 +56,4 @@ const doEdit = (edit) => {
 .shopping-cart-icon {
   font-size: 2rem;
 }
-.addint {
-  outline: none;
-  border-color: #26376b;
-  color: #3C486B;
-  height: 20px;
-  background-color: rgb(231, 231, 231);
-  border-radius: 8px;
-  border: 1px solid #3C486B;
-}
 </style>
