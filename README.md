@@ -1,35 +1,14 @@
-# new
+<center>
+    <img
+    src="/workspaces/SHOPPING-CART-DEL/public/img/itgam paint.png"
+    alt="Itgam Header" />
+</center>
 
-This template should help get you started developing with Vue 3 in Vite.
+# Shopping Cart 🛒 Project
 
-## Recommended IDE Setup
+Proyecto para el curso de desarrollo de aplicaciones  
+para dispositivos moviles 2023-B usando Vue.js
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+## Autor
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+Alfonso Reyes
