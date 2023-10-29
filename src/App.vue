@@ -63,11 +63,11 @@ const reversedItems = computed(() => {
   </form>
   <ul>
     <li v-for="({ id, label, purchased, highPriority }, index) in reversedItems"
-     v-bind:key="id"
      :class="{strikeout : purchased, priority : highPriority}"
      @click="togglePurchased(reversedItems[index])"
-     >
+     v-bind:key="id">
       🔹 {{ label }}
+      
     </li>
   </ul>
   <p v-if ="items.length === 0">🥀 Lista de Compras Vacia 🥀</p>
